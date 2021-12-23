@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "author": "MGH_DAO",
+    "name": "MetaGameHub DAO",
+    "description": "S&Box land evaluation tool",
+    "version": "1.0",
+    "browser_action": {
+        "browser_style": "true",
+        "default_popup": "popup.html",
+        "default_area": "navbar",
+        "default_icon": {
+            "48": "48x48.png"
+        }
+    },
+    "permissions": [
+     "activeTab"
+     ]
+  }

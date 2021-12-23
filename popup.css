@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(233, 233, 233);
+    background-image:  url('http://www.davidpaulkirkpatrick.com/wp-content/uploads/2012/09/metaverse1.jpg');
+    background-size: 200;
+    font-family: 'Courier New', Courier, monospace;
+    min-width: 200;
+}
+
+p {
+    text-align: center;
+    font-family: Helvetica;
+    color: rgba(255, 255, 255, 0.822);
+    font-size: 24px;
+    font-weight: 800;
+}
+
+input {
+    background-color: #fff;
+}
+
+img {
+    max-width: 40px;
+}
+
+#submitted {
+    text-align: center;
+    background-color: rgb(233, 233, 233);
+    border-radius: 5px;
+    margin-left: 55px;
+}
+
+#submitted:hover {
+    background-color: rgb(182, 255, 182);
+}
